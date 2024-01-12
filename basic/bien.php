@@ -1,10 +1,11 @@
-<?php
+<?php 
 
-echo '<pre>';
+echo "<pre>";
 
-$bien1 = 'Ahiii';
+// Biến
+$bien1 = 'Ahihi';
 $bien2 = 2;
-$bien3 = [3, 3, 5];
+$bien3 = [3, 3, 4];
 $bien4 = null;
 $bien5 = true;
 
@@ -15,8 +16,6 @@ var_dump($bien4);
 var_dump($bien5);
 
 // Hằng số
-// LỚp đối tượng -> const 
 const CONST_STATUS = 1;
 
-// file đơn thuần, global luôn -> define
-define('CONST_STATUS_1', 2);
+define('CONST_STATUS_2', 2);
