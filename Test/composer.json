@@ -1,0 +1,15 @@
+{
+    "name": "anhdung/test",
+    "autoload": {
+        "psr-4": {
+            "Anhdung\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anhdung2282003",
+            "email": "trandung2282003@gmail.com"
+        }
+    ],
+    "require": {}
+}

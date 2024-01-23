@@ -7,7 +7,7 @@ class Model
 
     public function __construct() {
         try {
-            $this->conn = new PDO("mysql:host=localhost;dbname=wd18321", 'root', '');
+            $this->conn = new PDO("mysql:host=localhost;dbname=wb18322", 'root', '');
 
             $this->conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
         } catch (PDOException $PDOException) {

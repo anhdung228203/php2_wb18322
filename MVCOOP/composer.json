@@ -1,0 +1,15 @@
+{
+    "name": "dungtaph43570/mvcoop",
+    "autoload": {
+        "psr-4": {
+            "Dungtaph43570\\Mvcoop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anhdung2282003",
+            "email": "trandung2282003@gmail.com"
+        }
+    ],
+    "require": {}
+}
